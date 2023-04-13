@@ -1,0 +1,10 @@
+okay this app will have a few things we larened recently
+    -get design for background using bootstrap
+    -make a section for the username and password
+    -make a form that takes info into a db and make a get 
+   - the form should be able to take uploads to using multer
+    - change screen based off info in get
+    - make a sort of info inn the list
+
+    - one more app like this but with an api call
+    then we put in portfolio 
